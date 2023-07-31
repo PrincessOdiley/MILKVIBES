@@ -1,0 +1,176 @@
+
+*{
+    margin: 0;
+    padding: 5px;
+}
+.Header{
+    display: flex;
+}
+#logo{
+    height: 40px;
+    margin-right: 400px;
+    padding-left: 200px;
+    padding-top: 15px;
+}
+#home{
+    font-weight: bold;
+    padding-top: 20px;
+    padding-right:40px;
+}
+#word{
+    padding-top: 20px;
+    padding-right:40px;
+}
+#words{
+    padding: 20px;
+    border: 1px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.overview{
+  display: flex;  
+  height: 700px;
+  padding-left: 200px;
+}
+.aim{
+    padding-top: 150px;
+    padding-right: 50px;
+    width: 600px;
+    text-align: left;
+}
+.aim h1{
+    font-size: 60px;
+    font-family: system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+.aim p{
+    font-size: 20px;
+    padding: 35px 0px;
+}
+.pix{
+    width: 600px;
+}
+#woman{
+    width: 400PX;
+    padding-top: 90px;
+    height: 610px;
+}
+.appt{
+    background-color: #A153A0;
+    border-radius: 7px;
+    color: white;
+    font-size: 19px;
+    margin-bottom: 50px;
+    padding: 15px;
+    font-weight: bold;
+}
+.info{
+    display: flex;
+    background-color: #F3F2F6;
+    height: 400px;
+    padding: 70px 200px;
+}
+.info h2{
+    font-weight: normal;
+    font-size: 30px;
+}
+.steps{
+    display: flex;
+    padding: 30px 0px;
+}
+#learn{
+    background-color: white;
+}
+.steps p{
+    padding-bottom: 30px;
+}
+#baby{
+    width: 350px;
+    height: 300px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.lactation{
+    padding-left: 40px;
+}
+.service h1{
+    font-weight: normal;
+    padding: 50px 200px;
+}
+.issues{
+    display: flex;
+    justify-content: space-between;
+    padding:0px 200px;
+}
+.About{
+    padding: 80px 0px;
+}
+.About h1{
+    padding: 50px 200px;
+    font-weight: normal;
+}
+.About p{
+    text-align: left;
+    padding-left: 200PX;
+    padding-right: 800PX;
+    font-size: large;
+}
+.area{
+    display: flex;
+    justify-content: space-between;
+}
+#map{
+    width: 450px;
+    padding-top: 30px;
+}
+.area li{
+    list-style: none;
+}
+.location{
+    display: flex;
+    background-color: #DDEEED;
+    height: 450px;
+}
+.visit{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.visit h1{
+    font-weight: normal;
+}
+.low{
+    padding: 70px 200px;
+}.low p{
+    padding-top: 30px;
+}
+.last{
+    background-color: #448E8C;
+    height: 200px;
+    color: white;
+}
+#wordds{
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#ibclc{
+    width: 50px;
+    height: 50px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 200px;
+}
+.policy{
+    text-align: right;
+    font-size: small;
+}
+.policy a{
+    color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}

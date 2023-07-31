@@ -1,0 +1,128 @@
+.Header{
+    display: flex;
+}
+#word{
+    padding-top: 20px;
+    padding-right:40px;
+}
+#words{
+    padding: 20px;
+    border: 1px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#logo{
+    height: 40px;
+    margin-right: 400px;
+    padding-left: 200px;
+    padding-top: 15px;
+}
+.Lactation{
+    padding-left: 200px;
+}
+.Lactation h1{
+    padding-top: 20px;
+    font-size: 60px;
+    font-family: system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+#nine{
+    display: flex;
+    padding-right: 50px;
+}
+#nine p{
+    padding: 60px 10px;
+}
+#nine h1{
+    font-size: 60px;
+    padding-top: 0px;
+}
+.first{
+    display: flex;
+    padding: 0px 200px;
+}
+#content{
+    padding-top: 60px;
+    font-size: large;
+    font-family: system-ui,BlinkMacSystemFont,-apple-system,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+#note{
+    padding: 30px 200px;
+    font-size: large;
+}
+.topics{
+    display: flex;
+    text-align: left;
+    font-size: large;
+}
+.visits{
+    padding: 0px 200px;
+}
+.visits p{
+    font-size: large;
+}
+.visits h1{
+    font-weight: normal;
+    padding-top: 120px;
+}
+.top li{
+    list-style: circle;
+    padding: 10px 10px;
+}
+.visits{
+    background-color: #F3F2F6;
+    background-size: 600px;
+    height: 450px;
+}
+.low{
+    padding: 70px 200px;
+}
+.low p{
+    padding-top: 30px;
+}
+.appt{
+    background-color: #A153A0;
+    border-radius: 7px;
+    color: white;
+    font-size: 19px;
+    margin-bottom: 50px;
+    padding: 15px;
+    font-weight: bold;
+}
+.last{
+    background-color: #448E8C;
+    height: 200px;
+    color: white;
+}
+#logo{
+    height: 40px;
+    margin-right: 400px;
+    padding-left: 200px;
+    padding-top: 15px;
+}
+#wordds{
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#ibclc{
+    width: 50px;
+    height: 50px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 200px;
+}
+.policy{
+    text-align: right;
+    font-size: small;
+}
+.policy a{
+    color: black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}

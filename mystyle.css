@@ -120,7 +120,12 @@
 }
 #map{
     width: 450px;
-    padding-top: 30px;
+    border: 1px;
+    border-radius: 30px;
+}
+.mapp{
+    padding-top: 40px;
+    padding-left: 20px;
 }
 .area li{
     list-style: none;
